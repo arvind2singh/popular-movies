@@ -1,0 +1,9 @@
+export const AUTH_LOGIN='AUTH_LOGIN';
+export const AUTH_REGISTER='AUTH_REGISTER';
+export const AUTH_FORGET='AUTH_FORGET';
+export const AUTH_LOGOUT='AUTH_LOGOUT';
+export const AUTH_KYC='AUTH_KYC';
+export const SEND_OTP="SEND_OTP";
+export const GET_COIN_DATA="GET_COIN_DATA";
+export const CHANGE_ACTIVE_COIN="CHANGE_ACTIVE_COIN";
+export const SET_USER_BALANCE ="SET_USER_BALANCE";
